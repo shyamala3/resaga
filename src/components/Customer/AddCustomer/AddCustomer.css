@@ -1,0 +1,9 @@
+.input-control {
+    width: 100%
+}
+
+@media screen and (min-width: 900px){
+    .input-control {
+        width: 50%;
+    }
+}
